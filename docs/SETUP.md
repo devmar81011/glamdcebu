@@ -2,7 +2,7 @@
 
 ## Live demo
 
-**Production:** https://glamdcebu-six.vercel.app
+**Production:** https://glamdcebu.vercel.app
 
 ## Local development
 
@@ -21,7 +21,7 @@ Works on **both** local and production (same Supabase project).
 
 | | Local | Production |
 |---|-------|------------|
-| **URL** | http://localhost:3000/admin/login | https://glamdcebu-six.vercel.app/admin/login |
+| **URL** | http://localhost:3000/admin/login | https://glamdcebu.vercel.app/admin/login |
 
 ### Accounts
 
